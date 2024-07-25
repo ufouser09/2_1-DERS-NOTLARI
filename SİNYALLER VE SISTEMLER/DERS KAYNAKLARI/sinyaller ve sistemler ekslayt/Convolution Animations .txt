@@ -1,0 +1,3 @@
+https://lpsa.swarthmore.edu/Convolution/CI.html
+
+https://dspillustrations.com/pages/posts/misc/convolution-examples-and-the-convolution-integral.html

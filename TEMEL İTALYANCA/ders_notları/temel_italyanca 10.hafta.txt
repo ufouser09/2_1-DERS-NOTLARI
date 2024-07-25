@@ -1,0 +1,729 @@
+BU DERSTTEKİ KELİMELER
+spumante------------------------------------------------->**kabarcıklı şarap
+caffe'-------------------------------------------------------->**Kahve'
+aranciata(F)----------------------------------------------->**Portakal suyu
+cappuccino(M)--------------------------------------------->**Cappuccino
+prendo......---------------------------------------------->**Alırım......
+vorrei.......------------------------------------------------------>**Ben isterim.......
+per me...........---------------------------------------------->**Benim için...........
+solo............----------------------------------------------------->**Yalnız............
+latte------------------------------------------------------------------->**süt
+mancıa(F)---------------------------------------------------------------------------->bahşiş
+cruciverba(F)----------------------------------------------------------------------->**1 bulmaca
+scarpa(F)-------------------------------------------------------------------------------->ayakkabı
+intervista(F)--------------------------------------------------------------------->görüşme,roportaj
+(il)piatto(M)------------------------------------------------------------------------->**tabak
+(il)cucchiano(M)---------------------------------------------------------------------->**kaşık
+(il)pane(M)-------------------------------------------------------------------------------->*ekmek
+(l')olıo(M)-------------------------------------------------------------------------------------->**yağ
+(l')aceto(M)---------------------------------------------------------------------------------------->sirke
+(il)coltello(M)--------------------------------------------------------------------------------->**bıçak
+(la)forchetta(F)---------------------------------------------------------------------------------->**çatal
+(il)cucchiano(M)------------------------------------------------------------------------------->**çay kaşığı
+(il)tovagliolo(M)----------------------------------------------------------------------------------------->**peçete
+(il)pepe-------------------------------------------------------------------------------------------->**biber
+il sale-------------------------------------------------------------------------------------------->**tuz
+il bicchere------------------------------------------------------------------------------->**cam
+l'acqua(F)--------------------------------------------------------------------->**su
+la birra(F---------------------------------------------------------------------------------->*bira
+la bottıglia(F)-------------------------------------------------------------------------->**şişe
+(il)gelato(M)------------------------------------------------------------------->**dondurma
+(la)minestra(F) ------------------------------------------------------------>**çorba
+(l')affettato(M)-------------------------------------------------------------->**dilimlenmiş
+(lo)strudel(M)------------------------------------------------------------------>**turta
+(il)bicchiere(M)------------------------------------------------------------>**cam
+(il)caffe'(M)-------------------------------------------------------------------->**kahve'
+(il)bar----------------------------------------------------------------------->**bar
+(l')antipasto---------------------------------------------------------------------->**meze
+(la)fragola--------------------------------------------------------------------->**çilek
+(il)pesce------------------------------------------------------------------------->**balık
+singolare:------------------------------------------------------------>**tekil
+apertivo--------------------------------------------------------------------->**aperatif
+cappuccino------------------------------------------------------------>*Cappuccino
+gelato--------------------------------------------------------------------->**dondurma
+latte------------------------------------------------------------------------------------->**süt
+crema------------------------------------------------------------------------------>**krem
+spremuta-------------------------------------------------------------------------->**Meyve suyu
+limone------------------------------------------------------------------------------------------>**limon
+(lo)spicciolo
+(l')industria---------------------------------------------------------------------------->endustiri,sanayi
+(l')uscita ------------------------------------------------------------------------>çıkış
+(la)statua----------------------------------------------------------------->heykel
+(il)minuto------------------------------------------------------>dakika
+(la)cassetta---------------------------------------------------------->kaset
+(l')aereo	---------------------------------------------------------->ucak
+(lo)scherzo--------------------------------------------------->şaka
+(l')espresso----------------------------------------------->espresso
+(la)sigaretta------------------------------------------------>sigara
+(l')operaio--------------------------------------------->işçi
+(l')aspirina ----------------------------------------->aspirin
+(la)stanza ------------------------------------------------>oda
+palazzo-------------------------------->bina
+rosso----------------------------------------------------->kırmızı
+giallo------------------------------------------------------->sarı
+divertente------------------------------------------------>eğlenceli
+spettocolo----------------------------------------------->gosteri
+per favore-------------------------------------------------->**Lütfen
+scusi-------------------------------------------------------->**Affedersin
+per cortesia-------------------------------------------------------->**Lütfen
+grazie----------------------------------------------------------->**Teşekkür ederim
+si,dica!------------------------------------------------------------->**Evet söyle!
+grazie--------------------------------------------------------->**Teşekkür ederim
+il conto per favore!------------------------------------------->**11-fatura lütfen!
+annucio--------------------------------------------------->reklam
+fatta in casa-------------------------------------------------------->**ev yapımı
+gradita--------------------------------------------------------------->**Hoş geldin
+scelta--------------------------------------------------------------->**seçenek
+ingredienti-------------------------------------------------------->**içindekiler
+circa-------------------------------------------------------------->**hakkında
+fare una festa------------------------------------------>**Party vermek
+chiuso--------------------------------------------->**kapalı
+prenotazione-------------------------------------->**rezervasyon
+il biglietto		i biglietti
+l'alberto		gli alberi
+lo studio 		gli studi	
+la scarpa		le scarpe
+l'intervista		le interviste
+
+
+lo spicciolo		gli spiccioli
+il letto		i letti
+l'industria		le industre
+il museo		i musei
+la scuola		le scuole
+il coltello		i coltelli
+l'uscita 		le uscite
+il libro	          i libri
+lo zucchero	gli zuccheri
+la statua		le statue
+l'ombrello 		gli ombrelli
+il minuto		i minuti
+l'anello		gli anelli
+la cassetta		le cassette
+l'aereo		 gli aerei
+lo scherzo		gli scherzi
+l'espresso		gli espressi
+la sigaretta	         le sigarette
+l'operaia		le operaie
+l'aspirina 		le aspirine
+la stanza 		le stanze
+
+
+
+i giorni della settimana---------->**haftanın günleri
+lunedi--------->**Pazartesi
+martedi----------------->**Salı
+mercoledi----------------->**Çarşamba
+giovedi--------------------->**Perşembe
+venerdi---------------------->**Cuma
+sabato-------------------->**Cumartesi
+domenica----------------->**Pazar
+
+BU DERSTTEKİ FİİLLER
+volere ------------->istemek,arzu etmek 
+voglio    
+vuoi     
+vuole   
+vogliamo   
+volete    
+vogliono  
+
+preferire-------->tercih etmek
+preferisco
+preferisci
+preferisce
+preferiamo
+preferite
+preferiscono
+
+prendere --->**almak
+prendo 
+prendi
+prende
+prendiamo
+prendete
+prendono
+
+parlare--->**konuşmak
+parlo
+parli
+parla
+parliamo
+parlate 
+parlano
+
+
+
+leggere----------->okumak
+leggo
+leggi
+legge
+leggiamo
+leggete
+leggono
+
+conoscere------------>bilmek
+conosco
+conosci
+conosce
+conosciamo
+conoscete
+conoscono
+
+mancare------------>**özlemek
+manco
+manchi
+manca
+manchiamo
+mancate
+mancano
+
+SONU E İLE BİTENLER
+
+MASC.
+cellulare
+studente
+yogurt
+strudel
+bicchiere 
+caffe
+bar
+pesce
+pane
+pepe
+sale
+sport
+
+FEM.
+chiave
+
+BU DERSTTEKİ KALIPLAŞMIŞ CUMLELER
+che bevande e'------------------------>**bu ne içki
+faccio il------------------------>**Ben yaparım
+io mi chiamo------------------>**Benim ismim
+ıo prendo----------------------->**Alırım
+ıo vorrei------------------------>**İsterim
+le presento----------------->**Seni tanıtıyorum
+per me invece-------------------->**onun yerine benim için
+piacere-------------------------------->**Zevk
+scusi,mi porto ancora...............---->**kusura bakmayın hâlâ taşıyorum
+quanto costa?------------>**fiyatı ne kadar?
+quando e' aperto?------------------->**ne zaman açık?
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+1-
+si lascia al cameriere prima di andare via.Cos'e?--------------->**gitmeden önce garsona bırakıyorsun o nedir?
+scrivi le parole giuste nelle caselle ed avrai la soluzione.---->**Kutulara doğru kelimeleri yazın, çözümü bulacaksınız.
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+2-quali sono le espressioni per fare un'ordinazione?--->**2-Sipariş verme ifadeleri nelerdir?
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+3-quali di queste parole sono singolari,quali plurali---->**3-Bu kelimelerden hangileri tekil, hangileri çoğul
+e quali possono essere singolari o plurali?---->**ve hangileri tekil veya çoğul olabilir?
+
+
+plurale:---->**çoğul:
+aranciate------------------------>**portakal
+marmellate--------------------------->**Reçeller
+bicchieri----------------------------->**bardak
+pizze---------------------------------->**pizzalar
+cornetti----------------------------------->**Kruvasan
+birre----------------------------------------->**bira
+
+singolare+plurale:---->**tekil+çoğul:-------------------->TEKIL VE COGUL HALLERİ DE AYNIDIR
+te'----->**çay
+toast----->**kızarmış ekmek
+caffe'------>**Kahve'
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+4-completa le frasi con il verbo prendere sulle righe ................e con l'articolo indeterminativo
+sulle righe................-------------->**4-Cümleleri satırlardaki alma fiili ile ve satırlardaki belirsiz artikel ile tamamlayın.............. . .
+
+1-Noi prendiamo un' aranciata e una spremuta di pompelmo---->**1-Portakallı soda ve greyfurt suyu alıyoruz
+2-franco prende un bicchiere d'acqua minerale----->**2 frank bir bardak maden suyu alır
+3-anche voi prendete una pizza?---->**3-Sizin de pizzanız var mı?
+4-anch'io prendo un cappuccino e un cornetto.---->**4-Ayrıca kapuçino ve kruvasan da alacağım.
+5-e tu che cosa prendi?un te' o un caffe'?----->**5-peki ne var çay mı kahve mi?
+6-loro prendono un aperitivo e una birra.----->**6-Aperitif ve bira içiyorlar.
+
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+5-ordina le forme verbali.----->**5-Fiil şekillerini sıralayın.
+infinito volere   preferire----->*sonsuz tercih etme arzusu
+io voglio    preferisco----->**istiyorum tercih ederim
+tu vuoi     preferisci------>**tercih etmek istiyorsun
+lui,lei,Lei vuole   preferisce----->**o, o, o istiyor tercih ediyor
+noi vogliamo   preferiamo----->**istiyoruz tercih ediyoruz
+voi volete    preferite---->**tercih etmek istiyorsun
+loro vogliono  preferiscono----->**istiyorlar tercih ediyorlar
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+
+voglio prendere una pizza---->?*Pizza almak istiyorum
+voglio una pizza----->**Pizza istiyorum
+preferisco prendere una pizza------>**pizza yemeyi tercih ederim
+preferisco la pizza------>**Pizzayı tercih ederim
+
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+
+6 completa con volere e preferire---->**6 istemek ve tercih etmekle tamamlandı
+
+1-oggi(io-volere) voglio andare in trattoria.--->**1-bugün(istiyorum) bir restorana gitmek istiyorum.
+2-giulia e federica(preferire)preferiscono mangiare solo un panino--->**2-giulia ve federica (tercih ediyor) sadece sandviç yemeyi tercih ediyor
+3-con il pollo noi(preferire)preferiamo bere un vino rosso.---->**3- Tavukla birlikte kırmızı şarap içmeyi tercih ederiz.
+4-(volere)vuole il menu',signora?----->**4-(istiyorum)menüyü ister misiniz hanımefendi?
+5-(voi-volere)volete il gelato o il caffe'?----->*5-(istiyor musun)dondurma mı istersin, kahve mi?
+6-signora,(preferire)preferisce gli spaghetti o le tagliatelle?------>**6-hanımefendi, spagettiyi mi yoksa tagliatelleyi mi tercih edersiniz?
+7-roberto,(volere)vuoi solo un primo?---->**7-roberto, sadece ilk dersi mi istiyorsun?
+8-ıo(preferire)preferisco bere una minerale gasata.---->**8-Ben (tercih ederim) Gazlı maden suyu içmeyi tercih ederim.
+
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+articoli determinativi
+masc.(il-i)
+il libro-i libri--->**kitap-kitaplar
+il foglio-i fogli---->**çarşaf-çarşaf
+il cellulare(M)-i cellulari---->**cep telefonu-cep telefonları
+
+masc.(lo-gli)
+lo studente-gli studenti---->**öğrenci-öğrenciler
+lo zaino-gli zaini----->**sırt çantası-sırt çantaları
+lo psicologo-gli psicologi----->**psikolog – psikologlar
+lo yogurt-gli yogurt------>**yoğurt-yoğurtlar
+lo xenofobo-gli xenofobi
+lo gnomo-gli gnomi
+l'amico-gli amoci
+
+
+fem(la-le)
+la matita-le matite
+la chiave-le chiavi
+l'amica-le amiche
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+-a/e(f)------------------->kızlarda sonu a ile biterse e'ye donusur diyor
+-o/-i(m)---------->erkeklerde o ile biterse i'ye donusuyor.(m)
+-e/-i(m/f)-------->erkek ve kızlarda fark etmez e ile biterse i'ye donusur.
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+
+il farmacista-i farmacisti(erkek eczacı olursa)
+(a ile bitmis ama ista'larda kadın erkek aynıydı.)
+la farmacista-le farmaciste(kadın eczacı olursa)
+------------------------------------------------------------------------------------------------------------------------------------------------
+BU KELİMELER İSTİSNAİ KELİMELER SONUNDAKİ HARFLER DEGİSMİYOR
+il cinema-i cinema
+il bar-i bar
+la citta'-le citta
+il caffe'-i caffe'
+lo sport-gli sport
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+7-completa con gli articoli determinativi
+
+bene.siamo pronti per ordinate.tutti voi prendere l'antipasto,solo io no.come primo sabrina
+prende le lasagne,francesca gli spaghetti al pomodoro,io il risotto ai funghi e matteo
+i tortollini in brodo.come secondo io e francesca prendiamo la cotoletta,matteo l'arrosto
+e sabrina niente.antipasti:per me le patatine fritte,per matteo e francesca i peperoni alla griglia.
+sabrina prende il pure' e l'insalata mista.
+
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+8-completa la schema.
+
+singolare:
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+
+plurale:
+i gelati------------------>**krema
+le minestre----------------->**çorba
+gli affettati-------------------->**soğuk etler
+gli strudel---------------------------->**meyveli turtalar
+
+i biccheri
+i caffe'
+i bar
+gli antipasti
+le fragole
+i pesci
+
+ı nomi in -a hanno il plurale in -e
+ı nomi in -o ed -e hanno il plurale in -i
+ı nomi che terminano in consonante o con sillaba finale accenta
+hanno il plurale uguale
+
+--------------------------------------------------------------------------------------------------------
+articoli determinativi
+singolare
+
+M.
++consonante    il ragazzo
++vocale            l'indirizzo
++S+consonante    lo straniero
++Z                     lo zaino
+
+plurale
+
+ı ragazzi
+gli indirizzi
+gli stranieri
+gli zaini
+
+
+F.
++consonante    la ragazza
++vocale             l'isola
+
+
+le  ragazze
+le isole
+--------------------------------------------------------------------------------
+
+
+esercizio 1
+
+mettere gli articoli
+determinativi
+e fare il plurale dei nomi
+
+essempi:
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+
+esserci
+c'e' un bicchiere sul tavolo
+
+ci sono 2 bicchieri
+
+scrivi molte email?
+no,non scrivo molte email.
+
+1-questa sera(voi,vedere)vedete la partita in TV?-------->**1-Bu akşam televizyonda maçı izliyor musun?
+2-mario(leggere)legge il giornale e dopo(fumare) fuma una sigeratta.------>**2-Mario (okur) gazete okur ve ardından (içer) bir sigara içer.
+3-sandro(vivere)vive a firenze,martina e giulia(vivere)vivono a venezia.-->**3-sandro(vivere) Floransa'da, Martina ve Giulia(vivere) Venedik'te yaşıyor.
+4-gli studenti(scrivere)scrivono una frase.---------->**4-Öğrenci (yaz) bir cümle yazar.
+5-l'insegnante (ripetere)ripete la lazione e gli studenti(imparare) imparano l'italiano.------>**5-Öğretmen eylemi tekrarlar (tekrarlar) ve öğrenciler İtalyanca öğrenirler (öğrenirler).
+6-chi(conoscere)conosce questa ragazza?------->**6-Bu kızı kim(bilir)biliyor?
+7-in classe(esserci)c'e' una lavagna molto grande.---->**7-Sınıfta çok büyük bir yazı tahtası var.
+8-madrid(essere) e' molto bella------>**8-madrid(b) çok güzel
+9-(io,mettere) metto il libro sul tavolo---------->**9-(koydum) kitabı masanın üzerine koy
+10-l'insegnante(chiedere)chiede una cosa e gli studenti(rispondere) rispondono.----------->**10-Öğretmen (sor) bir şey sorar ve öğrenciler (cevap) cevap verir.
+11-(voi,chiudere)chiudete la porta------->**11-(sen, kapat) kapıyı kapat
+12-mario(prendere)prende l'autobus per andare in ufficio---->**12-mario(al)ofise gitmek için otobüse biniyor
+13-ıo non(conoscere)conosco molte persone a roma.------->**13-Roma'da pek fazla insan tanımıyorum.
+14-romanina dove(lavorare)lavora?------>**14-romanina nerede çalışıyorsun?
+15-al bar(noi,prendere)prendiamo sempre il cappucino,voi(prendere)
+prendete il caffe'.----------------------->**5-barda (biz alırız) biz her zaman cappuccino alırız, sen (alırsın) kahveyi.
+16-ı turisti(chiedere)chiedono un'informazione.------------->**16-Turistler (sorarlar) bilgi isterler.
+17-ı giornalisti(scrivere)scrivono gli articoli sui giornali.-------------->**17-Gazeteciler gazetelerde makale yazar (yazar).
+18-maria(ricevere)riceve sempre molti regali dal suo ragazzo.----------->**18-maria(almak) erkek arkadaşından her zaman birçok hediye alır.
+19-ı gatti(essere)sono molto simplatici------------->*19-kediler çok hoş
+20-(tu,scrivere)scrivi molte e-mail?------------------->**20-(sen,yazıyorsun)çok fazla e-posta yazıyor musun?
+
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+
+10-che cosa manca sul tavolo?------->**10-Masada ne eksik?
+
+
+formate due gruppi.coprite prima il tavolo di destra e guardate quello di sinistra
+per 30 secondi.poi coprite il tavolo di sinistra e guardate che cosa manca su quello di destra.
+vince il gruppo che trova piu' oggetti mancanti tra quelli raffiguratti nelle lista.
+
+sul tavolo n.2 mancano--------------->**Tablo n.2'de eksikler
+manca il bicchiere sul tavolo------------>**masanın üzerindeki bardak eksik
+mancano i bicchieri sul tavolo----------->**masada bardaklar eksik
+
+mi manca la mia famiglia----------->**Ben ailemi özledim
+mi mancano gli amici--------------->**arkadaşlarımı özlüyorum
+mi manchi--------------------->**Seni özledim
+
+
+
+
+da te'
+da dolce
+
+
+11-
+ascolta il dialogo e completalo con le seguenti parole----------->**diyaloğu dinleyin ve aşağıdaki kelimelerle tamamlayın
+
+
+chiedere
+
+la cliente chiede-------->**müşteri sorar
+il conto al cameriere----------->**garsona fatura
+
+la cliente chiede al---------->**müşteri şunu sorar:
+cameriere di portare------------>**garson getirecek
+il conto------------>**fatura
+
+(chiedere a qualcuno di fare qualcosa)
+
+per piacere
+per favore
+
+portare 
+desiderare
+
+chiamare
+risponde di no/si
+
+-scusi
+
+-si,dica 
+
+-mi porto ancora mezza minerale,per costesia.--------->**-Bu arada hâlâ yarım maden getiriyorum.
+
+-certo,signora.decidera ancora qualcos'altro?------------->**-tabii ki hanımefendi. Hala başka bir şey istiyor musunuz?
+come dessert abbiamo gelato,macedonia,frutta fresca o il tiramisu',molto buono.---------->**Tatlı olarak dondurma, meyve salatası, taze meyve veya tiramisu var, çok güzel.
+
+-no,grazie        va bene cosi'.ah un momento,magari un caffe'!
+-coretto?
+si,grazie .e poi il conto per favore--------->**evet teşekkür ederim. Sonra da fatura lütfen.
+D'accordo.
+
+13-in che locale mangiano?---------->**13-Hangi yerde yemek yiyorlar?
+un annucio--------------->**Bir reklam
+cinque annunci------------------->**beş reklam
+
+
+e' aperto a cena----------------------->**Akşam yemeği için açık
+
+
+
+prenotare un tavolo--------->**rezervasyon yaptırmak
+da quando?------------------->**ne zamandan beri?
+
+il locale e' climatizzato-------->**oda klimalıdır
+c'e' l'aria condizionata--------->**klima var
+
+piati--------->**tabaklar
+fantasia------------>**fantezi
+al bicchiere---->**camın yanında
+sala banchetti------>**banket salonu
+veranda all'aperto---------->**açık veranda
+a mezzogiorno---------->**günün ortasında
+specialita'-------->**uzmanlıklar
+locale climatizzato--->**klimalı oda
+
+
+a-teresa preferisce la cucina di mare.--------->**a-teresa deniz ürünleri mutfağını tercih ediyor.
+b-emilio non mangia carne ----------------------->**b-emilio et yemiyor
+c-adnrea ama i piatti tipici regionali--------------->**c-adnrea tipik yöresel yemekleri seviyor
+d-ada vuole fare una festa in un ristorante per circa cinquanta persona.------------>**D-ada yaklaşık elli kişilik bir restoranda parti vermek istiyor.
+
+b--------------->e' vegetariano(carnivoro)
+
+nessuno preferisce.......-------------->**kimse tercih etmiyor......
+e tu quale ristorante preferisci?----------->**Peki hangi restoranı tercih edersiniz?
+
+
+
+
+singolare
+il libro e' bello------->**kitap çok güzel
+la casa e' bella---------->**Ev güzel
+
+plurale
+ı libri sono belli--------->**Kitaplar çok güzel
+le case sono belle----->**evler çok güzel
+
+-il maglione e' nuovo---->**-kazak yeni
+i maglioni sono nuovi----->**kazaklar yeni
+
+-la maglietta e' nuova---->**-gömlek yeni
+le magliette sono nuove---->**gömlekler yeni
+
+il ragazzo e' felice----->**oğlan mutlu
+i ragazzi sono felici---->**oğlanlar mutlu
+
+la ragazza e' felice--->**kız mutlu
+le ragazze sono felici----->**kızlar mutlu
+
+
+
+
+il professore e' simpatico---->**profesör iyi biri
+il ragazzo e' americano---->**oğlan Amerikalı
+la finestra e' aperta----->**pencere açık
+la ragazza e' straniera----->**kız bir yabancı
+nero x bianco------>**siyah x beyaz
+
+completare
+
+la professoressa e' simpatica.ı ragazzi sono americani.le finestre sono aperte.
+il negozio e' chiuso.la pizza e' pronta.il lavoro e' finito.le ragazze sono straniere.
+loro sono bravi/e.Lei e' stanco/a.Lui e' studioso.Le scarpe e le giacche sono nere.
+ı pantaloni sono rossi
+
+
+lei e' stanco---->**O yorgun
+pigro---->**tembel
+
+
+osservare----->**gözlemlemek
+
+singolare------->**tekil
+ıo sono/italiano/a------>**Ben İtalyanım
+tu sei italiano/a------>**sen italyansın
+lui e' italiano------>**O İtalyan
+lei e' italiana---->**o italyan
+Lei e'italiano/a---->**Sen italyansın
+
+plurale--->**çoğul
+
+Noi siamo italiani/e----->**Biz İtalyanız
+voi siete italiani/e--->**sen italyansın
+
+loro sono italiani/e--->**onlar italyan
+
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+scrivete le frasi al plurale----->**cümleleri çoğul olarak yazın
+1-la penna nera e' nuova--->**1-siyah kalem yenidir
+le penne nere sono nuove---->**siyah tüyler yeni
+
+2-il palazzo moderno e' grande---->**2-modern bina büyük
+i palazzi moderni sono grandi---->**modern binalar büyüktür
+
+3-la ragazza italiana e' bella------->**3-İtalyan kızı çok güzel
+le ragazze italiane sono belle------>**İtalyan kızları çok güzel
+
+4-il gatto piccolo e' simpatico e intelligente------>**4-küçük kedi hoş ve zekidir
+i gatti piccoli sono simpatici e intelligenti------>**küçük kediler sevimli ve zekidir
+
+5-la pizza italiana e' buona---->**5-İtalyan pizzası iyidir
+le pizze italiane sono buone---->**italyan pizzaları güzel
+
+6-il giornale americano e' noioso---->**6-Amerikan gazetesi sıkıcı
+i giornali americani sono noiosi---->**Amerikan gazeteleri sıkıcı
+
+7-questa macchina rossa e' vecchia----->**7-bu kırmızı araba eski
+queste macchine rosse sono vecchie---->**bu kırmızı arabalar eski
+
+8-l'attore bravo e' francese---->**8-iyi oyuncu Fransızdır
+gli attori bravi sono francesi--->**iyi oyuncular Fransızdır
+
+9-il libro giallo e' interessante.---->**9-Sarı Kitap ilgi çekicidir.
+i libri gialli sono interessanti---->**gizem kitapları ilginçtir
+
+10-L'amica alta e' bionda.---->**10-Uzun boylu arkadaş sarışındır.
+le amiche alte sono bionde---->**uzun boylu arkadaşlar sarışındır
+
+11-lo spettacolo interassante e' divertente--->**11-ilginç gösteri eğlencelidir
+gli spettacoli interessanti sono divertenti--->**ilginç gösteriler eğlencelidir
+
+12-la casa grande e' cara.---->**12-Büyük ev pahalıdır.
+le case grandi sono care--->**büyük evler pahalıdır
+
+
+
+il tiramisu e' buono---->**tiramisu iyidir
+la panna cotta e' buona---->**panna cotta iyidir
+parla bene l'italiano---->**İtalyancayı iyi konuşuyor
+sto molto bene----->**Çok iyiyim
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

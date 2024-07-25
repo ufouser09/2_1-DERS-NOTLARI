@@ -1,0 +1,581 @@
+Essere
+Io sono
+Tu sei
+Lui
+Lei e'
+tu sei
+-lui
+-lei e'
+-Lei
+-noi siamo
+-voi siete
+-loro sono
+
+
+Chiamarsi
+Io mi chiamo
+Tu ti chiami
+-lui
+-lei si chiama
+Lei
+-noi ci chiamiamo
+-voi vi chiamate
+Loro si chiamano
+
+
+Essere---------->olmak
+sono
+sei
+e'
+siamo
+siete
+sono
+
+Chiamarsi
+chiamo
+chiami
+chiama
+chiamiamo
+chiamate
+chiamano
+
+
+
+Avere----------------------->sahip olmak
+-io ho
+Tu hai
+Lui
+-lei ha
+-Lei
+Noi abbiamo
+Voi avete
+Loro hanno
+
+
+
+
+Stare---------->kalmak,durmak,bulunmak
+-io sto
+-tu sati
+-lui
+-lei sta
+-Lei
+-noi stiamo
+-voi state
+-loro stanno
+
+
+
+fare ----------->yapmak fiili
+faccio
+fai
+fa
+facciamo
+fate
+fanno
+
+
+
+
+parlare ------------------>konusmak fiili
+parlo
+parli 
+parla
+parliamo
+parlate
+parlano
+
+
+
+lavorare------------------>çalışmak
+lavoro
+lavori
+lavora
+lavoriamo
+lavorate
+LAVORANO
+
+
+studiare-------------------->okumak
+studio
+studi
+studia
+studiamo
+studiate
+studiano
+
+
+abitare--------------------->oturmak
+abito
+abiti
+abita
+abitiamo
+abitate
+abitano
+
+
+
+cercare---------------------->aramak
+cerco
+cerchi
+cerca
+cerchiamo
+cerate
+cercano
+
+
+
+
+
+
+mangiare--------------------------->yemek,yemek yemek
+mangio
+mangi
+mangia
+mangiamo
+mangigate
+mangiano
+
+
+giocare-------------------------------->oynamak
+gioco
+giochi
+gioca
+giochiamo
+giocate
+giocano
+
+
+
+
+Conoscere-------------------------------->bilmek,tanımak
+Conosco
+Conosci
+Conosce
+Conosciamo
+Conoscete
+Conoscono
+
+
+
+
+
+
+
+
+Bere-------------------------------->içme
+Bevo
+Bevi
+Beve
+Beviamo
+Bevete
+Bevono
+
+
+Servire-------------------->servis yapmak
+Servo
+Servi
+Serve
+Serviamo
+Servite
+Servono
+
+
+Pagare------------------->ödemek,para vermek
+Pago
+Paghi
+Paga
+Paghiamo
+Pagate
+Pagano
+
+
+Volere--------------------------->istemek,arzu etmek
+Voglio
+Vuoi
+Vuole
+Vogliamo
+Volete vogliono
+
+
+Preferire---------------------------->tercih etmek
+Preferisco
+Preferisci
+Preferisce
+Preferiamo
+Preferite
+Preferiscono
+
+
+Capire----------------------->anlamak
+Capisco
+Capisci
+Capisce
+Capiamo
+Capite
+Capiscono
+
+
+
+
+
+
+prendere---------------------->almak
+prendo prendi
+prende
+prendiamo
+prendete
+prendono
+
+
+parlare------------------------>konusmak
+parlo
+parli
+parla
+parliamo
+parlate 
+parlano
+
+
+
+
+
+
+
+conoscere---------------------->bilmek,tanımak
+conosco
+conosci
+conosce
+conosciamo
+conoscete
+conoscono
+
+
+mancare------------------>eksik olmak,bulunmamak
+manco
+manchi
+manca
+manchiamo
+mancate
+mancano
+
+volere---------->**istek,istemek
+voglio 
+vuoi
+vuole 
+vogliamo
+volete 
+vogliono
+
+
+venire -->**Gelmek
+vengo
+vieni
+viene
+veniamo
+venite
+vengono
+
+cucinare---->**pişmiş
+cucino
+cucini
+cucina 
+cuciniamo
+cucinate
+cucinano
+
+
+scrivere---->**yazmak
+scrivo
+scrivi 
+scrive
+scriviamo
+scrivete
+scrivono
+
+
+dormire---->**uyumak
+dormo
+dormi
+dorme
+dormiamo
+dormite
+dormono
+
+fare ---->**Yapmak
+faccio 
+fai
+fa
+facciamo
+fate
+fanno
+
+
+giocare---->**oynamak
+gioco
+giochi
+gioca
+giochiamo
+giocate
+giocano
+
+
+pagare---->**ödemek
+pago
+paghi
+paga
+paghiamo
+pagate
+pagano
+
+
+
+andare--->** Gitmek
+vado
+vai
+va
+andiamo
+andate
+vanno
+
+
+giocare------------------------->**  oynamak
+gioco
+giochi
+gioca
+giochiamo
+giocate
+giocano
+--------------------------------------
+
+leggere -------------------->**okumak
+leggo
+leggi
+legge
+leggiamo
+leggete
+leggono
+----------------------------------------------
+
+
+irregolare  ----------------->** düzensiz
+andare --------------------->** Gitmek
+vado
+vai
+va
+andiamo
+andate
+vanno
+
+
+dormire----------->**uyumak 
+dormo
+dormi 
+dorme
+dormiamo
+dormite
+dormono
+
+
+
+bere--->**içme
+bevo
+bevi
+beve
+beviamo
+bevete
+bevono
+
+
+dormire --->**uyumak
+dormo 
+dormi 
+dorme
+dormiamo
+dormite
+dormono
+
+giocare--->**oynamak
+gioco 
+giochi
+gioca
+giochiamo
+giocate
+giocano
+
+leggere --->**okumak
+leggo
+leggi
+legge
+leggiamo
+leggete
+leggono
+
+
+andare--->**Gitmek
+vado
+vai
+va
+andiamo
+andate
+vanno
+
+
+
+pagare---------->ödemek,para vermek
+pago
+paghi
+paga
+paghiamo
+pagate
+pagano
+
+
+stare ---->**kalmak
+sto
+stai 
+sta
+stiamo
+state
+stanno
+
+fare--->**Yapmak 
+faccio
+fai
+fa
+facciamo
+fate
+fanno
+
+
+dormire--->**uyumak 
+dormo
+dormi 
+dorme
+dormiamo
+dormite
+dormono
+
+preferire---->**tercih etmek
+preferisco
+preferisci
+preferisce
+preferiamo
+preferite
+preferiscono
+
+
+uscire--->**dışarı çıkmak
+esco
+esci
+esce'
+usciamo
+uscite
+escono
+
+
+venire--->**Gelmek
+vengo
+vieni
+viene
+veniamo
+venite
+vengono
+
+
+dire --->**söylemek
+dico 
+dici
+dice
+diciamo
+dite
+dicono
+
+
+dovere --->**zorunda olmak,mecbur olmak,borçlu olmak 
+devo
+devi
+deve
+dobbiamo
+dovete
+devono
+
+
+sapere --->**Bilmek
+so 
+sai 
+sa
+sappiamo
+sapete
+sanno
+
+
+giocare--->**oynamak
+gioco
+giochi
+gioca
+giochiamo
+giocate
+giocano
+
+leggere--->**okumak 
+leggo
+leggi
+legge
+leggiamo
+leggete
+leggono
+
+uscire --->**dışarı çıkmak
+esco
+esci
+esce
+usciamo
+uscite
+escono
+
+
+
+volere---->**istek
+voglio
+vuoi
+vuole
+vogliamo
+volete
+vogliono
+
+stare--->**kalmak
+sto
+stai
+sta
+stiamp
+state
+stanno
+
+bere--->**içme
+bevo
+bevi
+beve
+beviamo
+bevete
+bevono
+
+
+finire --->**bitirmek
+finisco
+finisci
+finisce
+finiamo
+finite
+finiscono
+
+partire--->**gitmek,hareket etmek
+parto
+parti
+parte
+partiamo
+partite
+partono
+
+
+bene,buono,buona,buoni,buone------------------------------>**iyi, iyi, iyi, iyi, iyi

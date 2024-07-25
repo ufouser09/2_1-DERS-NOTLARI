@@ -1,0 +1,25 @@
+t=0:0.01:250;
+x1=exp(-.02*t);
+x2=sin((10*pi*t)/250);
+X=x1.*x2;
+subplot(3,1,1);
+plot(t,x1,'r');
+axis auto;
+grid
+xlabel('Time (sec)');
+ylabel('Amplitude');
+legend('Exponential signal');
+title('Signal plotting using Matlab');
+subplot(3,1,2);
+plot(t,x2,'b');
+axis auto;
+grid;
+xlabel('Time (sec)');
+ylabel('Amplitude');
+legend('Sinusoidal signal');
+subplot(3,1,3);
+plot(t,X,'g');
+axis auto;
+grid;
+xlabel('Time (sec)');
+ylabel('Amplitude');

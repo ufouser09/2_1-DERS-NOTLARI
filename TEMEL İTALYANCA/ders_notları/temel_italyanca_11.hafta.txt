@@ -1,0 +1,922 @@
+BU DERSTTEKİ FİİLLER
+volere---------->**istek,istemek
+voglio 
+vuoi
+vuole 
+vogliamo
+volete 
+vogliono
+
+cucinare---->**pişmiş
+cucino
+cucini
+cucina 
+cuciniamo
+cucinate
+cucinano
+
+scrivere---->**yazmak
+scrivo
+scrivi 
+scrive
+scriviamo
+scrivete
+scrivono
+
+dormire---->**uyumak
+dormo
+dormi
+dorme
+dormiamo
+dormite
+dormono
+
+fare ---->**Yapmak
+faccio 
+fai
+fa
+facciamo
+fate
+fanno
+
+giocare---->**oynamak
+gioco
+giochi
+gioca
+giochiamo
+giocate
+giocano
+
+pagare---->**ödemek
+pago
+paghi
+paga
+paghiamo
+pagate
+pagano
+
+leggere --->**ışık
+leggo
+leggi
+legge
+leggiamo
+leggete
+leggono
+
+andare--->** Gitmek
+vado
+vai
+va
+andiamo
+andate
+vanno
+
+venire -->**Gelmek
+vengo
+vieni
+viene
+veniamo
+venite
+vengono
+
+are
+giocare--->**  oynamak
+gioco
+giochi
+gioca
+giochiamo
+giocate
+giocano
+
+
+leggere --->** okumak
+leggo
+leggi
+legge
+leggiamo
+leggete
+leggono
+
+
+dormire --->**  uyumak
+dormo
+dormi 
+dorme
+dormiamo
+dormite
+dormono
+
+
+irregolare  --->** düzensiz
+andare --->** Gitmek
+vado
+vai
+va
+andiamo
+andate
+vanno
+
+dormire--->**uyumak 
+dormo
+dormi 
+dorme
+dormiamo
+dormite
+dormono
+
+
+preferire--->**preferire
+preferisco
+preferisci
+preferisce
+preferiamo
+preferite
+preferiscono
+
+bere--->**içme
+bevo
+bevi
+beve
+beviamo
+bevete
+bevono
+
+BU DERSTTEKİ KELİMELER
+
+domenica--------------------------->**Pazar
+pasta------------------------------>**makarna
+climatizzato--------------------------------------------->**klimalı
+menu'--------------------------------------------->**Menü
+tipica----------------------------------------------------------->**tipik
+cugino--------------------------------------------------------->kuzen
+albergo--------------------------------------------------->otel
+nazione---------------------------------------------->ulus
+stadio---------------------------------------------->stadyum
+citta------------------------------------------------>şehir
+preparare-------------------------------------->**hazırlanmak
+nominare-------------------------------------->**aday göstermek,adlandırmak
+menzionare---------------------------------->**değinmek
+Al ristorante----------------------------->**restoranda
+scusi----------------------------------------->**affedersiniz.
+no grazie---------------------------------->**hayır teşekkürler
+bene-------------------------------------------------->**iyi,güzel.
+molto----------------------------------------------------------------->**çok
+cucina tipica------------------------------------------------->**Geleneksel yemekler
+locale climatizzato------------------------------------------>**klimalı oda
+costare---------------------------------------------------------------------->**mal olmak
+(lo)straniero------------------------------------------------------------>**yabancı
+palazzo-------------------------------------------------------------------->**bina
+casa---------------------------------------------------------------------------->**ev
+arrosto--------------------------------------------------------------->**haşlamak
+carote----------------------------------------------------------------->**havuçlar
+cotolette------------------------------------------------------------------>**pirzola
+formaggio-------------------------------------------------------------------->**peynir
+frittata con le zucchine --------------------------------------->**kabaklı omlet
+frutta fresca--------------------------------------------------->**taze meyve
+gelato--------------------------------------------------------------->**dondurma
+insalata------------------------------------------------------------------>**salata
+macedonia------------------------------------------------------------->**meyve salatası
+melanzane alla parmigiana----------------------------------------->**patlıcan Parmesan
+minestrone------------------------------------------------------------------>**etli ve sebzeli italyan çorbası
+mozzarella-------------------------------------------------------------->**mozzarella
+**forse---------------------------------------------------------------------->**belki
+grazie mille --------------------------------------------------->**Binlerce kez teşekkürler
+grazie tante------------------------------------------------------->**Çok teşekkür ederim
+grazie infinite------------------------------------------------------------>**Çok teşekkür ederim
+grazie di cuore---------------------------------------------------------------------->**Sana bütün kalbimle teşekkür ediyorum
+ti ringrazio per l'aiuto------------------------------------------------------->**Yardımlarınız için teşekkür ederim
+la ringrazio--------------------------------------------------------------------->**Teşekkür ederim
+dormire----------------------------------------------------------------->**uyumak
+leggere------------------------------------------------------------------->**okumak
+guardare la tv--------------------------------------------------------------->**TV izleme
+ballare------------------------------------------------------------------------->**dans
+cucinare-------------------------------------------------------------->**pişmiş
+andare in bicicletta----------------------------------------------------->**bisiklet sürmek
+fare ginnastica--------------------------------------------------->**Jimnastik yapmak
+sempre --------------------------------------------------------------->**  Her zaman
+spesso  -------------------------------------------------------------------->** Sıklıkla
+di solito------------------------------------------------------------------------>**  Genellikle
+qualche volta--------------------------------------------------------->**   bazen
+raramente----------------------------------------------------------------->**  nadiren
+non_____mai  ----------------------------------------------------->** Asla
+guardare------------------------------------------------------->**kol saati
+guardano la tv--------------------------------------------->**guardano la tv
+ballare----------------------------------------------------->**dans
+ballano------------------------------------------------------------->**dans
+chiacchierare ----------------------------------------------->** sohbet etmek
+chiacchierano ------------------------------------------------>**  sohbet ediyorlar
+avete-------------->**var
+prende------------->**almak
+prendo------------>**alırım
+vorrei----------------->**Ben isterim
+vuole---------------->**istiyor
+**questo-------------------------------->**bu
+come sono------------------------------->**onlar nasıl
+almeno---------------------------------->**en azından
+qualche volta------------------------------------------------->**bazen
+chattare e gicote con il computer--->**bilgisayarla sohbet et ve oyna
+giocare a tennis
+correre
+specialita pasta fatta in casa---------------------------->**ev yapımı makarna spesiyalitesi
+locale climatizzato------------------------------------------>**klimalı oda
+treno----------------->tren
+
+SONU E İLE BİTEN KELİMELER
+
+MASC.
+
+FEM.
+
+BU DERSTTEKİ KALIPLAŞMIŞ CUMLELER
+buongiorno signora------------>**günaydın hanımefendi.
+vuole il menu--------------->**menuyu ister misiniz?
+vorrei solo un secondo-------------->bir saniyenizi rica ediyorum.
+cosa avete----------->**neyiniz var?
+van bene ---->**onlar iyi
+prendo la sogliola------->**ben dibi alacagım.
+e un' insalata verde per favore---------->ve yeşil salata lütfen.
+e da bere-------->**peki ne içilir.
+ancora qualcosa'altro---------->baska bir şey daha alır mısınız?
+cosa avete-------------------------->neyiniz var
+con che frequenza ----------------------------------->** ne sıklıkta
+quanto spesso sta a casa?--------------------------->**  Ne sıklıkla evdesin?
+quante volte---------------------------------------------->**  Kaç sefer
+ancora qualcosa?------------->baska bir sey daha alır mısınız
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+9-completa con i verbi della lista--->**listedeki fiillerle tamamlayın
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+scusi--------------------------------------------------------------------------------->**affedersin
+buongiorno signora,"vuole" il menu?------------------------------------>**günaydın hanımefendi, menüyü ister misiniz?
+no grazie "vorrei" solo un secondo.cosa "avete"?------------>**hayır teşekkürler, bir saniyenizi rica ediyorum. neyiniz var?
+arrosto di vitello,pollo allo spiedo o sogliola.------------------------------------------------>**rosto dana eti, şişte kavrulmuş tavuk veya dil balığı.
+van bene."prendo" la sogliola.e un'insalata verde per favore.------------>**Onlar iyi. Ben dibi alacağım. Ve yeşil salata lütfen.
+bene.E da bere?----------------------------------------------------------------------------->**güzel Peki ne içilir?
+un quarto di vino bianco------------------------------->**beyaz şarabın dörtte biri
+"prende" ancora qualcos'altro------------------------------------------->**başka bir şey alır
+si,mezza minerale.---------------------------------------------------->**Evet, yarı mineral.
+gasata----------------------------------------------------------------->**gazlı
+no,naturale---------------------------------------------------------->**hayır, doğal
+
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+
+10-quale parola non apparitene alla serie?---------------------------------------------->**Hangi kelime diziye ait değildir?
+1-coltello/aceto/forchetta/cucchiaio--------------------------------------------------->**bıçak/sirke/çatal/kaşık
+2-tovagliolo/pepe/sale/olio--------------------------------------------------------------->**peçete/biber/tuz/yağ
+3-pane/pizza/toast/aperitivo----------------------------------------------------------->**ekmek/pizza/tost/aperatif
+4-cappuccino/caffe//te/gelato--------------------------------------------------------->**kapuçino/kahve//çay/dondurma
+5-pure/insalata/macedonia/spinaci----------------------------------------------------->**saf/salata/meyve salatası/ıspanak
+
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+
+11-quale forma e' qualla giusta?--------------------------------->**hangi şekil doğru?
+bene,buono,buona,buoni,buone------------------------------>**iyi, iyi, iyi, iyi, iyi
+buono bir sıfattır iyidir.
+
+ancora qualcosa?---------------------------------------------------->**başka bir şey daha alır mısınız?
+no,grazie,va bene cosi.--------------------------------------------->**hayır, teşekkürler, sorun değil.
+
+la pizza e' buona?--------------------------------------------------->**pizza güzel mi?
+si,grazie---------------------------------------------------------------->**Evet lütfen
+
+come sono gli spaghetti?--------------------------------------->**spagetti nasıl?
+molto buoni------------------------------------------------------------->**Çok iyi
+
+
+
+buona sera signora,come sta?------------------------------------>**iyi akşamlar hanımefendi nasılsınız?
+bene,grazie e Lei?------------------------------------------------------>**İyiyim ya sen?
+
+
+mangiamo qui?------------------------------------------------------->**burada mı yiyeceğiz?
+no,questo ristorante non e' buono------------------------------>**hayır, bu restoran iyi değil
+
+**mangiamo------------>**hadi yiyelim
+
+
+come primo abbiamo le lasagne.--->**İlk önce lazanyamız var.
+sono molto buone--->**Onlar çok iyiler
+va bene allora prendo le lasagne--->**tamam o zaman lazanya alacağım
+
+il panino e' buono--->**sandviç iyidir
+i panini sono buoni--->**sandviçler iyi
+
+la torta e' buona --->**pasta güzel
+le torte sono buone--->**kekler güzel
+
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+
+12-completa la pubblicita del ristorante con le parole della lista--->**Restoran reklamını listedeki kelimelerle tamamlayın
+
+
+
+giorno di chiusura domenica-------------------------------------->**kapanış günü Pazar
+menu' del giorno  £20------------------------------------------------->**günün menüsü 20 tl
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+
+mettete gli articoli determinativi e fate il plurale dei nomi--->**belirli artikelleri koyun ve isimleri çoğul yapın
+
+FEM.**
+(tekil)la-(cogul)le
+-a/-e
+-e/-i(m/f)
+
+MASC.**
+(tekil)il-(cogul)i
+(tekıl)lo-(cogul)gli
+-o/-i
+-e/-i(m/f)
+
+
+la macchina --->**araba
+le macchine---->**arabalar
+
+la chiave--->**anahtar
+le chiavi--->**anahtarlar
+
+lo studente--->**öğrenci
+gli studenti--->**öğrenciler
+
+il bicchiere--->**bardak
+i bicchieri--->**gözlük
+
+la stanza--->**oda
+le stanze--->**Odalar
+
+il treno--->**tren
+i treni--->**trenler
+
+l'amico--->**arkadaş
+gli amici--->**Arkadaşlar
+
+il cugino--->**kuzen
+i cugini--->**kuzenler
+
+l'albergo--->**otel
+gli alberghi--->**oteller
+
+la nazione--->**ulus
+le nazioni--->**uluslar
+
+il pane--->**ekmek
+i pani--->**ekmekler
+
+la citta--->**şehir
+le citta'--->**şehir
+
+il giornale--->**gazete
+i giornali--->**gazeteler
+
+la stella--->**yıldız
+le stelle---->**yıldızlar
+
+l' amica-->**arkadaş
+le amiche--->**Arkadaşlar
+
+lo stadio--->**stadyum
+gli stadi--->**stadyumlar
+
+la sedia--->**sandalye
+le sedie---->**Koltuklar
+
+il biglietto--->**bilet
+i biglietti--->**biletler
+
+lo straniero--->**yabancı
+gli stranieri--->**yabancılar
+
+l'universita'---->**üniversite
+le universita'---->**Üniversiteler'
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+completate le battute mancanti con gli articoli e aggettivi nella forma corretta--->**Eksik satırları artikel ve sıfatlarla doğru biçimde tamamlayın
+il compito e' difficile--->**görev zor
+-o/-i
+-a/-e
+
+il palazzo e' bello--->**bina çok güzel
+i palazzi sono belli--->**Saraylar çok güzel
+
+
+la casa e' bella--->**Ev güzel
+le case sono belle--->**evler çok güzel
+
+
+1-i compiti sono difficili--->**görevler zor
+il comito e' difficile---->**görev zor
+
+2-l' universita e' bella--->**üniversite çok güzel
+le universita' sono belle---->**üniversiteler çok güzel
+
+3-i libri sono interessanti--->**kitaplar ilginçtir
+il libro e' interessante--->**bu kitap ilginç
+
+4-il ragazzo e' spagnolo--->**oğlan İspanyol
+i ragazzi sono spagnoli--->**oğlanlar İspanyol
+
+5-l'amica e' simpatica--->**arkadaş iyidir
+le amiche sono simpatiche-->**arkadaşlar hoştur
+
+6-le scarpe nuove sono nere--->**yeni ayakkabılar siyah
+
+7-le finestre sono aperte--->**pencereler açık
+la finestra e' aperta--->**pencere açık
+
+8-la borsa e' vecchia--->**çanta eski
+le borse sono vecchie--->**çantalar eski
+
+9-gli esami italiani sono facili--->**İtalyanca sınavları kolaydır
+l'esame italiano e' facile--->**İtalyanca sınavı kolaydır
+
+10-il tempo e' caldo-->**hava sıcak
+
+11-le ragazze sono straniere--->**kızlar yabancı
+la ragazza e' straniera--->**kız bir yabancı
+
+12-la maccgina e' nuova--->**araba yeni
+le macchine sono nuove--->**arabalar yeni
+
+
+la macchina e' grande--->**araba büyük
+le macchine sono grandi--->**arabalar büyük
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+14-un invito a cena--->**akşam yemeğine davet
+gigi ed anna hanno ospiti a cena e preparano un menu'--->**Gigi ve Anna akşam yemeği için misafirleri ağırlar ve bir menü hazırlarlar
+ascolta il dialogo e segna piatti che nominano--->**diyaloğu dinleyin ve isimlendirdikleri yemekleri işaretleyin
+
+ospite(m/f)
+un osite
+un' ospite
+
+l'ospite-gli ospiti
+l'ospite-le ospiti
+
+
+
+quale piatto--->**hangi yemek
+quali piatti--->**hangi yemekler
+
+essere d' accordo--->**kabul etmek
+avere tempo--->**zaman var
+
+cominciare a fare qualcosa--->**bir şeyler yapmaya başla 
+pensare di fare qualcosa--->**bir şey yapmayı düşün
+ venire -->**Gelmek
+domani sera--->**yarın akşam
+tornare tardi dal lavoro--->**tornare tardi dal lavoro
+
+
+e' trappo lavoro--->**Bu çok fazla iş
+
+
+adesso comincio a studiare.--->**Şimdi çalışmaya başlıyorum.
+domani penso di andare a teatro--->**domani penso di andare a teatro
+
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+14-un invito a cena--->**akşam yemeğine davet
+gigi ed anna buono ospştş a cena e preparano un menu-->**gigi ve anna akşam yemeği için iyi ospştş ve bir menü hazırlıyorlar
+ascolta il dialogo e segna i piatti che nominano--->**diyaloğu dinleyin ve isimlendirdikleri yemekleri işaretleyin
+
+
+
+pere cotte--->**pişmiş armut
+petti di pollo---->**tavuk göğsü
+pure' di patate--->**patates püresi
+risotto ai funghi--->**mantar Risotto
+spaghetti---->**Spagetti
+tortellini in brodo--->**et suyunda tortellini
+
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+1-E possibile prenotare un tavolo?----->**1-Masa ayırtmak mümkün mü?
+metti in ordine il dalogo,come nell'esempio.poi ascolta e verifica----->**diyaloğu örnekte olduğu gibi sıraya koyun. sonra dinleyin ve kontrol edin
+
+1-ristorante roma buongiorno----->**1-restoran roma günaydın
+buongiorno.scusi,e' possibile prenotare un tavolo per le otto?----->**günaydın, kusura bakmayın, saat sekiz için masa ayırtmak mümkün mü?
+
+2-certo.per quante persone?-->**-elbette.kaç kişi için?
+sei forse sette.--->**altı belki yedi.
+
+
+3-D'accordo.E a che nome?-->**3-Tamam Peki hangi isimle?
+lochmann--->**Lochmann
+
+4-come scusi?--->**4-ne kadar üzgünüm?
+lochmann elle -o-ci-acca-emme-a-enne-enne--->**lochmann elle -o-ci-acca-emme-a-enne-enne
+
+5-ah va bene.--->**5-ah tamam.
+grazie mille--->**Binlerce kez teşekkürler
+
+6-prego,si figuri!A piu' tardi.--->**6- Rica ederim tabii ki! Sonra görüşürüz.
+arrivederci-->Tekrar buluşana kadar
+
+7-arrivederci--->**Tekrar buluşana kadar
+
+
+
+
+prego 
+di nulla/di niente
+non c'e' ci che
+
+si figuri(form.)
+figurati(inf.)
+
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+prima di guardare il video:il titolo di questo episodio e'"un pranzo veloce".Che
+parole ti vengono inmente quando parlliamo di "pranzo"?Scrivi 4 parole(cose o persone)
+
+mi vengono in mente gli spaghetti
+
+mi viene in mente la pizza--->**Aklıma pizza geliyor
+
+pensare a qualcosa--->**birşey hakkında düşünmek
+penso a te--->**Seni düşünüyorum
+
+un piatto unico-------->**tek bir yemek
+
+federico pensa agli spaghetti---->**Federico spagettiyi düşünüyor
+
+mangiare--->**yemek yemek
+bere---->**içme
+
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+4-inserisci le battute del cameriere e ricostruisci il dialogo.poi riguarda e verifica--->**4-Garsonun repliklerini ekleyin ve diyaloğu yeniden oluşturun.Sonra tekrar bakıp kontrol edin.
+
+buongiorno.che prendete?--->**günaydın, ne yiyorsun?
+mah io prendo un primo.spaghetti.ai frutti di mare--->**peki ilk yemeğim spagetti ve deniz ürünleri olacak
+
+no gli spaghetti non ci sono.oggi solo pizza il cuoco e' malato.--->**hayır spagetti yok. bugün sadece pizza şef hasta.
+oh beh allora...ok,va bene una pizza.tu fede?--->**peki o zaman... tamam, pizza iyidir. inancın var mı?
+cosa vuoi?-->**Ne istiyorsun?
+si anch'io voglio una pizza...una quattro stagioni.--->**evet ben de pizza istiyorum... dört mevsim pizza.
+
+no abbiamo solo pizza margherita.--->**hayır sadece margherita pizzamız var.
+uh allora guardo....per me una bella margherita!--->**ah o zaman... benim için güzel bir papatyaya bakacağım!
+tu fede che pizza preferisci?--->**hangi pizzayı tercih edersin?
+ah ma avete anche la cotoletta alla milanese buona!--->**ah ma avete anche la cotoletta alla milanese buona!
+
+ma no anch'io prendo la margherita vai--->**ama hayır, papatyayı da alacağım, git
+
+bene allora le pizza sono due.e da bere?--->**peki o zaman iki pizza var ve ne içelim?
+ıo vorrei una birra piccola....Se c'e'--->**Küçük bir bira istiyorum....Eğer varsa
+
+abbiamom solo birre in bottiglia--->**sadece şişelenmiş biralarımız var
+allora due birre.in bottiglia,eh!E anche un litro d'acqua.--->**sonra şişelerde iki bira, ha! Ve ayrıca bir litre su.
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+si dai--->**Evet tamam
+allora l'antipasto no.o un primo o un secondo vediamo--->**o zaman meze yok, ya da ilk yemek ya da ikinci yemek, bakalım
+bene allora le pizze sono due--->**peki o zaman iki pizza var
+e da bere?--->**ve içmek?
+allora due birre.in bottiglia eh!E anche un litro d'acqua.--->**sonra iki bira. bir şişede ha! Ve ayrıca bir litre su.
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+
+ristorante,trattoria,o...?--->**restoran mı, trattoria mı, yoksa...?
+leggi il testo e poi abbina le frasi alle immagini--->**metni okuyun ve ardından cümleleri resimlerle eşleştirin
+
+un piccolo spazio all'aperto,per prendere un panino o una pizza in modo veloce-->**hızlıca bir sandviç veya pizza kapmak için küçük bir dış mekan alanı
+locale dove prrendiamo il gelato--->**dondurma aldığımız yer
+locale dove mangiare la pizza--->**locale dove mangiare la pizza
+
+dove mangiare la pizza--->**pizza nerede yenir
+dove mangiare un pasto completo(primo,secondo,contorno,ecc)--->**Tam bir yemeğin nerede yenileceği (ilk yemek, ikinci yemek, garnitür vb.)
+per fare colazione,prendere un caffe o qualcosa da bere o da mangiare in pochi minute--->**birkaç dakika içinde kahvaltı yapmak, kahve içmek veya yiyecek veya içecek bir şeyler içmek
+come il ristorante,ma l'ambiente e' piu' semplice--->**restoran gibi ama ortam daha basit
+locale economico per mangiare o prendere qualcosa di caldo e gia' pronto--->**yemek yemek veya sıcak ve hazır bir şeyler almak için ucuz yer
+
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+kendinizi tanitan ve bos zamanlarınızda neler yaptıgınızı belirttiginiz bi paragraf yaziniz.
+29 aralık cuma 
+
+mail adresi yollayın 
+gkaya@yildiz.edu.tr
+
+word veya pdf formatinda yazabilirsiniz ve isminiz altına lutfen grup 2 yazınız.
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+
+come vai a scuola?--->**okula nasıl gidiyorsun?
+vado a scuola in tram in metropolitana--->** Metroda tramvayla okula gidiyorum
+in treno--->** Trenle
+in autobus--->** otobüs ile
+
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+ascolta di nuovo e verifica--->**  tekrar dinle ve kontrol et
+che cosa fai nel tempo libero?--->**  Sen boş zamanlarında ne yaparsınız?
+ıo?di solito faccio sport --->** Genellikle spor yaparım
+ah....E che sport fai?  ah...--->**Peki hangi sporu yapıyorsun?
+di solito gioco a calcio,ma gioco anche a tennis,vado in bicicletta....e tu? --->** Genelde futbol oynarım ama aynı zamanda tenis de oynarım, bisiklete binerim... ya sen?
+ıo invece dormo leggo o guardo la tv.sto quasi sempre a casa.non sono brava come te--->**  Bunun yerine uyuyorum, kitap okuyorum veya televizyon izliyorum. Neredeyse her zaman evdeyim. Senin kadar iyi değilim
+anch'io sto quasi sempre a casa.... --->**  Ben de neredeyse her zaman evdeyim...
+ma come?non giochi a calcio,a tennis....?  ama nasıl?--->**Futbol, ​​tenis oynamıyorsun....?
+si certo.ma a casa,con il computer! --->** evet elbette, ama evde, bilgisayarla!
+
+----------------------------------------------------------------
+
+
+sta quasi sempre a casa  sta quasi sempre a casa-->**o neredeyse her zaman evdedir neredeyse her zaman evdedir
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+di solito --->**  Genellikle
+quasi sempre --->** neredeyse her zaman
+--------------------------------------------------------------------------------------------------------------------
+3-E voi che cosa fate di solito nel tempo libero?  --->**Boş zamanlarınızda genellikle ne yaparsınız?
+che cosa fai nel tempo libero?  --->**Sen boş zamanlarında ne yaparsınız?
+parla con un compagno.  --->**bir partnerle konuş.
+
+che cosa fai/fa nel tempo libero?--->**  Boş zamanlarınızda ne yaparsınız/yaparsınız?
+Io di solito.....E tu/E Lei...?  --->** Ben genellikle.....Ve sen/Ve o...?
+
+fare la spesa  --->** alışverişe gitmek
+fare una passeggiata  --->**yürüyüşe çık
+ascoltare musica  --->** müzik dinlemek
+andare al cinema  --->** sinemaya git
+lavorare in giordino   --->**bahçede çalışmak
+giocare a carte   --->**oyun kartları
+
+di solito fa la spesa  --->** genellikle alışverişe gider
+fanno una passeggiata(passeggiano)  --->**yürüyüşe çıkıyorlar (yürüyüşe çıkıyorlar)
+va al cinema --->** o sinemaya gider
+lavora in giardino  --->**bahçede çalışıyor
+giocano a carte  --->**kart oynuyorlar
+
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+con che frequenza giochi a tennis?--->**  Ne sıklıkla Tenis oynuyorsun?
+gioco sempre a tennis --->**  Her zaman tenis oynarım
+
+quanto spesso vai in bicicletta? --->** Ne sıklıkla bisiklete binersiniz?
+non vado mai in bicicletta  --->**        Asla bisiklete binmem
+
+quante volte giochi con il computer? --->**  Ne sıklıkla bilgisayar oyunları oynarsın?
+raramente gioco con il computer --->**  Nadiren bilgisayar oyunu oynarım
+
+con che frequenza cucini?  --->**  Ne sıklıkla yemek pişirirsin?
+qualche volta cucino --->**  bazen yemek yaparım
+
+quanto spesso fai sport? --->**  Ne sıklıkla spor yaparsın?
+spesso faccio sport --->**   Sık sık spor yaparım
+
+con che frequenza lavori in giordino? --->**   Bahçede ne sıklıkla çalışıyorsunuz?
+il fine settimana lavoro in giardino--->**     Hafta sonları bahçede çalışıyorum
+
+durante la settimana  --->**   hafta boyunca
+
+quante volte ascolti musica? --->**  Ne sıklıkla müzik dinlersin?
+ogni giorno ascolto musica --->**   hergün müzik dinlerim
+tutti i giorni  tutti i giorni
+
+
+quanto spesso giochi a carte?--->**   Ne sıklıkla kart oynarsınız?
+
+il venerdi sera gioco a carte--->**    Cuma akşamları kart oynarım
+
+quanto spesso fai yoga? --->**    Ne sıklıkla yoga yaparsınız?
+faccio yoga una volta alla settimana --->**   Haftada bir kez yoga yapıyorum
+
+al giorno-->**günlük
+al mese --->**   her ay
+all'anno --->**   yıl başına
+
+con che frequenza leggi il giornale?  --->**  Gazeteyi ne sıklıkla okursunuz?
+la mattina leggo il giornale --->**    sabah gazeteyi okudum
+ogni mattina --->**    her sabah
+tutte le mattine --->**   her sabah
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+1-pulisci la casa il fine settimana? pulire---->**1-Hafta sonları evi temizliyor musunuz? temiz
+si,pulisco la casa.......---->**evet evi temizliyorum......
+
+2-spedisci le lettere agli amici?spedire---->**2-Arkadaşlarınıza mektup gönderiyor musunuz?
+no,non spedisco le lettere.......--->**hayır, mektup göndermiyorum......
+
+3-preferisci i ristoranti francesi o cinesi?--->**3-Fransız restoranlarını mı yoksa Çin restoranlarını mı tercih edersiniz?
+preferisco i ristoranti francesi--->**Fransız restoranlarını tercih ederim
+
+4-la lezione finisce alle nove?--->**4-Ders dokuzda bitiyor mu?
+no,finisce alle 15:30--->**hayır 15.30'da bitiyor
+
+5-capisci l'insegnante?capire--->**5-Öğretmeni anlıyor musun?Anlıyor musun?
+si,capisco l'insegnante--->**evet anlıyorum öğretmenim
+
+6-spedisci le e.mail?--->**6-E-posta gönderiyor musunuz?
+
+no,non spedisco le email--->**hayır, e-posta göndermiyorum
+
+7-preferisci ascoltare la radio o leggere un libro?--->**7-Radyo dinlemeyi mi yoksa kitap okumayı mı tercih edersiniz?
+preferisco leggere un libro---->**Kitap okumayı tercih ederim
+
+
+8-l'insegnante pulisce la classe?
+no,non pulisce la classe
+
+
+9-il corso finisce domani?
+no,finisce fra due settimane
+
+10-preferisci guardare un film in tv o andare al cinema?
+preferisco andare al cinema
+
+
+11-l'insegnante capisce il turco?---->**Öğretmen Türkçe anlıyor mu?
+si capisce il turco--->**Türkçe anlaşıldı
+
+12-gli studenti preferiscono la  lezione o la pausa?--->**Öğrenciler dersi mi yoksa tatili mi tercih ediyor?
+preferiscono la lezione---->**preferiscono la lezione
+
+
+
+13-chi pulisce i bagni all'istituto?il bidello- la bidella--->**Enstitüdeki banyoları kim temizliyor? kapıcı- kapıcı
+i bidelli puliscono i bagni a scuola---->**hademeler okulda tuvaletleri temizliyor
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+cosa fanno queste persone?---->**cosa fanno queste persone?
+
+
+
+
+
+ridere------------------------>**GÜLMEK
+il dott savi-------------------------->**Doktor Savi
+ride------------------------->**gülüyor
+
+bere
+beve acqua minerale
+
+entrare
+entra a casa/in classe/in ufficio
+
+suonare
+suona la chitarra
+
+dormire
+dorme
+
+parlare al telefono con qualcuno
+telefonare a qualcuno
+
+parla al telefono con marco telefona a marco
+
+leggere 
+legge il giornale
+
+chiudere
+chiude la porta
+
+ascoltare
+ascolta musica
+
+scrivere
+scrive una lettera
+
+mangiane
+mangia gli spaghetti
+
+aprire   açık
+apre la porta  -->**kapıyı açar
+
+
+
+parlano del piu' e del meno  şunun hakkında konuşuyorlar ve bunun hakkında konuşuyorlar
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+completa le frasi e volgi al plurale---->**Cümleleri tamamlayın ve çoğul yapın
+1-l' elefante giovane e' simpatico--->**1-genç fil çok tatlı
+gli elefanti giovani sono simpatici--->**gli elefanti giovani sono simpatici
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
